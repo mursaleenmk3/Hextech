@@ -712,6 +712,10 @@ form textarea:focus {
         grid-auto-columns: calc((100%/2));
         
       }
+    .f-nav{
+        display: none;
+      }
+    
       
     
 }
